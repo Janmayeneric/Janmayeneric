@@ -31,12 +31,13 @@ Here are how we performed during:
 * 📖**Know a little bit**: Computer Graphics, DNA sequencing, Information Retrieval, NLP, GANs
 
 ## Bear is working, although not always
---><!--
+-->
+
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJanmayeneric%26show\_icons%3Dtrue%26theme%3Dnord" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DJanmayeneric%26show_icons%3Dtrue%26theme%3Dnord" alt="Your GitHub Stats" />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJanmayeneric%26layout%3Dcompact%26theme%3Dnord" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJanmayeneric%26layout%3Dcompact%26theme%3Dnord" alt="Top Languages" />
 
-</div>-->
+</div>
 
