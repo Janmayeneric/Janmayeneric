@@ -31,7 +31,7 @@ Here are how we performed during:
 * 📖**Know a little bit**: Computer Graphics, DNA sequencing, Information Retrieval, NLP, GANs
 
 ## Bear is working, although not always
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janmayeneric)](https://github.com/Janmayeneric/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-fawn.vercel.app/api/top-langs/?username=Janmayeneric)](https://github.com/Janmayeneric/github-readme-stats)
 
 </div>
 
