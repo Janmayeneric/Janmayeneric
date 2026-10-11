@@ -24,7 +24,7 @@ Here are how we performed during:
 |**Backend**|Spring|
 |**AI/ML/Big Data**|LangChain, PyTorch, Scikit-learn, Hadoop, Pandas, BERT, FASTQ, FASTA|
 |**DevOps/Cloud**|AWS, Vertex AI, Azure, Google Cloud|
-|**Current/Previous Employee**| Gemini 3, Gemini 2.5, Gemini 2, Gemini 1.5, GPT 4, GPT 4o, GPT o1, GPT 3|
+|**Current/Previous Employee**| Fable 5.1, Astra 6, Opus 5.5, Sol 6.1, ChatGPT Dot (I call her Kitty)|
 
 ## Bear are learning
 * 🔬**Currently working on**: LLM, Transportation, Sentiment Ananlysis
